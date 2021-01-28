@@ -1,0 +1,23 @@
+U={
+	Número primo: 2-> Binario: 10
+	Número primo: 3-> Binario: 11
+	Número primo: 5-> Binario: 101
+	Número primo: 7-> Binario: 111
+	Número primo: 11-> Binario: 1011
+	Número primo: 13-> Binario: 1101
+	Número primo: 17-> Binario: 10001
+	Número primo: 19-> Binario: 10011
+	Número primo: 23-> Binario: 10111
+	Número primo: 29-> Binario: 11101
+	Número primo: 31-> Binario: 11111
+	Número primo: 37-> Binario: 100101
+	Número primo: 41-> Binario: 101001
+	Número primo: 43-> Binario: 101011
+	Número primo: 47-> Binario: 101111
+	Número primo: 53-> Binario: 110101
+	Número primo: 59-> Binario: 111011
+	Número primo: 61-> Binario: 111101
+	Número primo: 67-> Binario: 1000011
+	Número primo: 71-> Binario: 1000111
+	Número primo: 73-> Binario: 1001001
+}

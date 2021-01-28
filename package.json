@@ -1,0 +1,19 @@
+{
+  "name": "universoprimos",
+  "version": "1.0.0",
+  "description": "Universo de numeros primos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemrg17/UniversoPrimos.git"
+  },
+  "author": "mikemrg17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemrg17/UniversoPrimos/issues"
+  },
+  "homepage": "https://github.com/mikemrg17/UniversoPrimos#readme"
+}
